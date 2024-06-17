@@ -1,6 +1,8 @@
 html {
     font-family: monospace;
+    height: 100%;
     background-image: linear-gradient(blue,purple,pink);
+    background-repeat: no-repeat;
 }
 
 div {

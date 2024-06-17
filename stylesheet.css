@@ -1,0 +1,10 @@
+html {
+    font-family: monospace;
+    background-image: linear-gradient(blue,purple,pink);
+}
+
+div {
+    color: black;
+    text-align: center;
+    text-shadow: 0 0 3px black;
+}
